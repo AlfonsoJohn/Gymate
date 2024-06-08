@@ -10,8 +10,17 @@
 
 <h3>Build with:</h3>
 
-» Tailwind CSS <br>
-» React JS
+<ul>
+  <li><b>Frontend:</b> React JS, Tailwind CSS</li>
+  <li><b>Backend:</b> Node.js, Python</li>
+  <li><b>Database:</b> DynamoDB or RDS</li>
+  <li><b>Authentication:</b> AWS Cognito</li>
+  <li><b>Hosting:</b> Vercel</li>
+  <li><b>Version Control:</b> GitHub</li>
+  <li><b>Design:</b> Figma</li>
+  <li><b>Cloud Services:</b> AWS</li>
+  <li><b>Backend Integration:</b> AWS Amplify</li>
+</ul>
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
@@ -19,7 +28,6 @@
 
 <div align='center'>
 <img src='https://user-images.githubusercontent.com/105128267/213878710-5662b56b-fc14-43cc-b038-70c21abb2e5f.png'/>
-
 </div>
 
 <br><br>
