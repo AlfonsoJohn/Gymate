@@ -12,7 +12,7 @@
 
 <ul>
   <li><b>Frontend:</b> React JS, Tailwind CSS</li>
-  <li><b>Backend:</b> Node.js, Python</li>
+  <li><b>Backend:</b> Node.js</li>
   <li><b>Database:</b> DynamoDB or RDS</li>
   <li><b>Authentication:</b> AWS Cognito</li>
   <li><b>Hosting:</b> Vercel</li>
